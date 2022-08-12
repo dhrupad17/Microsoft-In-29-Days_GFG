@@ -1,10 +1,14 @@
 # [Microsoft-In-29-Days](https://practice.geeksforgeeks.org/courses/microsoft-in-29-days)
-<p float="left">
-  <img src="https://media.geeksforgeeks.org/img-practice/banner/microsoft-in-29-days-thumbnail-old.png?v=1660322649.679822" width="300" />
-  <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" width="700" height="220" /> 
-</p>
+
+<table>
+<tr>
+<td> <img src="https://media.geeksforgeeks.org/img-practice/banner/microsoft-in-29-days-thumbnail-old.png?v=1660322649.679822" width="500" /> </td>
+<td> <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" width="500" /> </td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000" />
+
 
 # Course Description
 ### Only `29 days` to crack, what most people consider their dream company, `Microsoft`.We bring to you the most organized course out there that can skyrocket your performance and help you acquire a `high-paying job`.
