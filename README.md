@@ -25,6 +25,11 @@
 
 | DAYS  |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :---------------------------- | :----------- |  :------------------------------------------------------------ |
+| DAY1 | Longest subarray with sum divisible by K | `Medium` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=f6b59c8c2b4151dbe5d12f3f1b27bd92&pid=702926&user=dhrupadchakraborty123) |
+|  | Smallest window in a string containing all the characters of another string | `Medium` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=7a4d6df0c9a808bf89afcff95fdaa597&pid=701310&user=dhrupadchakraborty123) |
+|  | Key Pair | `Easy` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=ac14afeb42de74851e4c54c5e707207a&pid=703092&user=dhrupadchakraborty123) |
+|  | Three Sum Closest | `Easy` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=dc87f06d948f169a62e3e0ab1eb4b3ef&pid=702068&user=dhrupadchakraborty123) |
+|  | Find All Four Sum Numbers | `Medium` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=03f34e53de88a62c756b83cae51d59f7&pid=702139&user=dhrupadchakraborty123) |
 
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
