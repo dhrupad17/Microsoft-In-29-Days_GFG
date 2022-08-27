@@ -30,6 +30,12 @@
 |  | Key Pair | `Easy` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=ac14afeb42de74851e4c54c5e707207a&pid=703092&user=dhrupadchakraborty123) |
 |  | Three Sum Closest | `Easy` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=dc87f06d948f169a62e3e0ab1eb4b3ef&pid=702068&user=dhrupadchakraborty123) |
 |  | Find All Four Sum Numbers | `Medium` | [👉Click Here](https://practice.geeksforgeeks.org/viewSol.php?subId=03f34e53de88a62c756b83cae51d59f7&pid=702139&user=dhrupadchakraborty123) |
+|  |  |   |    |
+| DAY2 | Count distinct elements in every window | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P1.md) |
+|  | Array Pair Sum Divisibility Problem | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P2.md) |
+|  | Zero Sum Subarrays | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P3.md) |
+|  | Non Repeating Character | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P4.md) |
+|  | Find missing in second array | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P5.md) |
 
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
