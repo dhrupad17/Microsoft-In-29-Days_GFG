@@ -36,6 +36,12 @@
 |  | Zero Sum Subarrays | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P3.md) |
 |  | Non Repeating Character | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P4.md) |
 |  | Find missing in second array | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY2P5.md) |
+|  |  |   |    |
+| DAY3 | Count Inversions | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P1.md) |
+|  | Sort array after converting elements to their squares | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P2.md) |
+|  | Insertion Sort | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P3.md) |
+|  | Merge Sort | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P4.md) |
+|  | Minimum Platforms | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P5.md) |
 
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
