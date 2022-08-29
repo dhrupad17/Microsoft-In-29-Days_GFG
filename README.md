@@ -42,7 +42,12 @@
 |  | Insertion Sort | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P3.md) |
 |  | Merge Sort | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P4.md) |
 |  | Minimum Platforms | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY3P5.md) |
-
+|  |  |   |    |
+| DAY4 | Overlapping Intervals | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P1.md) |
+|  | Count the number of possible triangles | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P2.md) |
+|  | Triplet Sum in Array | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P3.md) |
+|  | Top K Frequent Elements in Array  | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P4.md) |
+|  | Minimum Swaps to Sort | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P5.md) |
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
