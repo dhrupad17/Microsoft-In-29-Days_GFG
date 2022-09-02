@@ -48,6 +48,12 @@
 |  | Triplet Sum in Array | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P3.md) |
 |  | Top K Frequent Elements in Array  | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P4.md) |
 |  | Minimum Swaps to Sort | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY4P5.md) |
+|  |  |   |    |
+| DAY5 | Permutations of a given string | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY5P1.md) |
+|  | Add Binary Strings | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY5P2.md) |
+|  | Implement Atoi | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY5P3.md) |
+|  | Longest Palindrome in a String  | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY5P4.md) |
+|  | Factorials of large numbers | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY5P5.md) |
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
