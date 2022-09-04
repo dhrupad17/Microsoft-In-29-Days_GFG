@@ -60,6 +60,13 @@
 |  | Longest Prefix Suffix | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY6P3.md) |
 |  | Multiply two strings | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY6P4.md) |
 |  | Alien Dictionary | `Hard` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY6P5.md) |
+|  |  |   |    |
+| DAY7 | Distribute N candies among K people | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY7P1.md) |
+|  | Square root of a number | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY7P2.md) |
+|  | Coin Piles | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY7P3.md) |
+|  | Bike Racing | `Hard` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY7P4.md) |
+|  | Killing Spree | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY7P5.md) |
+
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
