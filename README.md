@@ -72,6 +72,12 @@
 |  | First and last occurrences of X | `Basic` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY8P3.md) |
 |  | Capacity To Ship Packages Within D Days  | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY8P4.md) |
 |  | Median in a row-wise sorted Matrix | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY8P5.md) |
+|  |  |   |    |
+| DAY9 | Check if Linked List is Palindrome | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P1.md) |
+|  | Finding middle element in a linked list | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P2.md) |
+|  | Reverse a linked list | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P3.md) |
+|  | Intersection Point in Y Shapped Linked Lists | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P4.md) |
+|  | Reverse a Linked List in groups of given size. | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P5.md) |
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
