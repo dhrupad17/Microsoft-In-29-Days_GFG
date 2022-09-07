@@ -78,6 +78,12 @@
 |  | Reverse a linked list | `Easy` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P3.md) |
 |  | Intersection Point in Y Shapped Linked Lists | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P4.md) |
 |  | Reverse a Linked List in groups of given size. | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY9P5.md) |
+|  |  |   |    |
+| DAY10 | Reverse a Linked List in groups of given size. | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY10P1.md) |
+|  | Remove all occurences of duplicates in a linked list | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY10P2.md) |
+|  | Add two numbers represented by Linked List | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY10P3.md) |
+|  | Length of longest palindrome in linked list  | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY10P4.md) |
+|  | Merge K sorted linked lists | `Medium` | [👉Click Here](https://github.com/dhrupad17/Microsoft-In-29-Days_GFG/blob/main/DAY10P5.md) |
 ## 🎖️ Badges
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
